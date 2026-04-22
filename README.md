@@ -1,5 +1,6 @@
 # tencentCloud-
-这是一个秒杀38元/年的青龙本，请勿商用，否则后果自负
+这是一个秒杀38元/年服务器的青龙本，请勿商用，否则后果自负
+
 ql_get_cookies_no_playwright.py   # Cookie配置助手
 ql_snap_up_simple.py              # 秒杀主程序（简化版）
 ```
