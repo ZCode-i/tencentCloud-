@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
+#变量：ck|token|时间-
+#TENCENT_COOKIE
+#TENCENT_CSRF_TOKEN
+#SECKILL_DATETIME
 """
 cron: 58 14 * * *
 new Env('腾讯云秒杀多账号版-稳健时间版');
